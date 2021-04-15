@@ -1,1 +1,1 @@
-"Finalmente podemos concluir que..."
+"Finalmente podemos concluir que git es una herramienta muy importante para pproyectos de gran tama¤o"
