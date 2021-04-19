@@ -1,1 +1,3 @@
-"Finalmente podemos concluir que git es una herramienta muy importante para pproyectos de gran tama¤o"
+"Finalmente podemos concluir que ..."
+"...ha mejorado un 3 %..."
+"...superando 3 de los 5..."
